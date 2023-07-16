@@ -1,6 +1,7 @@
-email: "david@davidmles.com"
-url: "https://davidmles.com"
-logo: "/assets/images/icon-512.png"
+url: https://davidmles.github.io
+domain: davidmles.github.io
+email: david@davidmles.com
+logo: /assets/images/icon-512.png
 
 author:
   name: David Morales
