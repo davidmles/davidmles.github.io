@@ -1,0 +1,29 @@
+email: "david@davidmles.com"
+url: "https://davidmles.com"
+logo: "/assets/images/icon-512.png"
+
+author:
+  name: David Morales
+  twitter: davidmles
+twitter:
+  username: davidmles
+social:
+  name: David Morales
+  links:
+    - https://www.linkedin.com/in/davidmles/
+    - https://github.com/davidmles
+    - https://stackoverflow.com/users/267705/david-morales
+    - https://twitter.com/davidmles
+    - https://www.instagram.com/davidmles/
+
+permalink: /:slug
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - package.json
+  - package-lock.json
+  - README.md
+  - tailwind.config.js

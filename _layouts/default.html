@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" href="/img/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="manifest" href="/manifest.webmanifest">
+
+    <link rel="stylesheet" href="/assets/css/styles.css">
+
+    <script defer src="/assets/js/main.js"></script>
+
+    <script>
+      if (sessionStorage.theme === 'dark' || (!('theme' in sessionStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark')
+      } else {
+        document.documentElement.classList.remove('dark')
+      }
+    </script>
+
+    {% seo %}
+
+    {% if jekyll.environment == "production" %}
+      <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "8ca6e58cf9d64f8da4aa528c9a5615b5"}'></script><!-- End Cloudflare Web Analytics -->
+    {% endif %}
+  </head>
+  <body class="dark:bg-gray-800">
+    <header class="text-center mt-8 mb-5 sm:mt-14 sm:mb-20">
+      {% include logo.html %}
+
+      <p class="mt-1 px-2 font-light tracking-wider text-gray-600 lg:mt-3 dark:text-gray-300">
+        <span class="whitespace-nowrap">Web Developer.</span> <span class="whitespace-nowrap">Technical Instructor.</span>
+      </p>
+
+      {% include navigation.html %}
+    </header>
+
+    <main class="max-w-lg px-5 mx-auto sm:px-6 sm:max-w-xl md:max-w-2xl lg:max-w-4xl">
+      {% if page.h1_title %}
+        <h1 class="pb-2 mb-6 text-3xl font-bold leading-7 border-b-2 border-gray-100 sm:-mt-8 sm:text-4xl lg:text-5xl lg:font-semibold dark:border-gray-700 dark:text-gray-100">
+          {{ page.h1_title }}
+        </h1>
+      {% endif %}
+
+      {{ content }}
+    </main>
+
+    <footer class="max-w-xl px-5 mx-auto mt-20 mb-10 sm:mt-16 sm:max-w-2xl lg:max-w-4xl lg:mt-24">
+      <div class="border-t-2 border-gray-100 dark:border-gray-700"></div>
+
+      <section class="grid items-center grid-cols-6 gap-5 mx-auto mt-6 w-60 md:w-72 lg:mt-8">
+        {% include social-logos.html %}
+      </section>
+    </footer>
+  </body>
+</html>

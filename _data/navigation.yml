@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Bio
+  link: /bio
+- name: Projects
+  link: /projects
+- name: Writing
+  link: /writing
+- name: Teaching
+  link: /teaching
