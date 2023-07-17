@@ -27,7 +27,7 @@ h1_title: Bio
 
   **At 18, I decided to study computer science more seriously**. While learning *PHP* and making my first websites, I studied for a higher degree in programming. I learned a lot about databases, networks, and languages like *C++*.
 
-  **In 2000 I started to work professionally as a web developer**, using *JavaScript* and *ASP*, and at the same time, I was teaching on-site.
+  **In 2000 I started to work professionally as a web developer**, using *JavaScript* and *ASP*, and at the same time I was teaching on-site.
 
   In 2001 I wanted to continue studying, so **I started a degree in Computer Science** at the University of Barcelona, which I completed in February 2005. There I learned the basics of computing: electronics, math, and software engineering. I even learned *Java* and *Ruby*!
 
@@ -35,15 +35,15 @@ h1_title: Bio
 
   <h2>My experience as a web developer and teacher</h2>
 
-  - I started in 2000 as a full-stack web developer, mainly using *ASP* and *JScript* (Microsoft’s *JavaScript* version). And I was combining it, in the same company, with web development classes on *ASP*, *PHP*, and *Java*. I also taught *Linux* system administration. I had students from the following companies and institutions: Ajuntament de Barcelona (Barcelona City Council), TMB (Barcelona Metropolitan Transport), FGC (Catalan Government Railways), Cirsa, Sony
+  - I started in 2000 as a full-stack web developer, mainly using *ASP* and *JScript* (Microsoft’s *JavaScript* version). And I was combining it, in the same company, with web development classes on *ASP*, *PHP*, and *Java*. I also taught *Linux* system administration. I had students from the following companies and institutions: Ajuntament de Barcelona (Barcelona City Council), TMB (Barcelona Metropolitan Transport), FGC (Catalan Government Railways), Cirsa, and Sony.
   - In 2006 I developed an ecological social network called Tree-Nation, in *PHP*.
   - In 2008 I developed a classified ads website. I used the first version of the *Symfony framework* for *PHP*.
   - In 2010 I created another classified ads website, collaborating with several real estate portals in Spain. I also used the first version of *Symfony*.
   - In 2013 I jumped to *Symfony2* to develop a *PrestaShop* clone used in an e-commerce website.
-  - At that time, I changed technology to *Ruby on Rails*. But before, I wanted to dump my knowledge of *Symfony2* in a course that I published on Udemy and had great acceptance. While learning *Ruby*, I developed a social network of activities similar to Meetup.
+  - At that time, I switched to *Ruby on Rails*. But before, I wanted to dump my knowledge of *Symfony2* in a course that I published on Udemy, and it had great acceptance. While learning *Ruby*, I developed a social network of activities similar to Meetup.
   - Since 2014 I have been working remotely for several companies in the UK, using *Ruby on Rails*.
   - In 2022 I started working on my first course for LinkedIn Learning. The experience of working with several teams to launch the course together has been gratifying.
-  - In 2023, I started working at Spotlio as a tech lead for Ruby on Rails.
+  - In 2023, I started working as a tech lead for a Ruby on Rails devs team.
 
   <h2>My studies</h2>
 
