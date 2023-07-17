@@ -19,7 +19,7 @@ h1_title: Bio
 
   I was always impressed by 80’s computers, those green screens, and those big boxes. I loved IBM PCs and could imagine myself being a hacker using them.
 
-  With my first computer in 1993, I started to learn to program. **I chose *Pascal* as my first programming language**, and it was exciting! **Soon I heard of a more widespread language called *C***, so I started to learn it. I found it more difficult, I found it more difficult, I remember that I always preferred *Pascal*, so I left *C* and returned to it many times. I made some little text-based video games with *Pascal* containing school stories my classmates liked.
+  With my first computer in 1993, I started to learn to program. **I chose *Pascal* as my first programming language**, and it was exciting! **Soon I heard of a more widespread language called *C***, so I started to learn it. I found it more difficult. I remember that I always preferred *Pascal*, so I left *C* and returned to it many times. I made some little text-based video games with *Pascal* containing school stories my classmates liked.
 
   I even tried to develop an application for the mechanic in my neighborhood. **What I tried to build from scratch was a database!** He wanted to have a system to manage his customers and print invoices. I worked hard and accomplished storing data in binary files. It was driven by a rudimentary (but hey, very functional) user interface developed in plain-old *C for MS-DOS*.
 
