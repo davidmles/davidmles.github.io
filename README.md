@@ -8,7 +8,7 @@ Open the Gemfile and to these changes:
 
 Run `bundle install`.
 
-## Running the compilers
+## Running the project
 
 Open two terminal tabs, and run the following commands:
 
