@@ -2,7 +2,7 @@
 
 ## Adapting the Gemfile
 
-Open the Gemfile and to these changes:
+Open the Gemfile and do these changes:
 - Uncomment the jekyll gem
 - Comment out the github-pages gem
 
